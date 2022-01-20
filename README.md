@@ -4,7 +4,7 @@
 **“开源大师兄”开源教育项目是由一线608位老师共同发起的开源教育项目**
 项目的目的是为了解决我国青少年开源教育的软硬件、课程、平台的自主可控性，目前项目包括“开源大师兄”硬件项目，“开源大师兄”软件项目、“开源大师兄”课程项目。官网地址：
 
- [https://www.openbrother.com](https://www.openbrother.com)
+ [https://www.openbrother.com](https://www.openbrother.com)  （建设中）
 
 ## "开源大师兄"创客板
 
