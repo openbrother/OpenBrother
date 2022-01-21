@@ -1,11 +1,12 @@
+# 蜂鸣器例程：蜂鸣器重复打开关闭
 import machine
 import time
+# 初始化蜂鸣器
 machine.initBeep()
-a = 0
-while a< 20:
+while True:
+    # 打开蜂鸣器
     machine.beep_on()
     time.sleep(1)
+    # 关闭蜂鸣器
     machine.beep_off()
     time.sleep(1)
-    print("11111")
-    a+=1
