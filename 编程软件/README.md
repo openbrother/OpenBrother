@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ./
+---
+
 # “开源大师兄创客板”软件使用说明（Python版）
 
 （版本号：2022.1.20）
@@ -20,7 +24,7 @@ https://www.aliyundrive.com/s/KUVgHn52B2d
 
 1．下载完成后解压，直接按照指引进行安装
 
-2．安装完成后双击桌面上的“PZStudio”![img](file:///C:\Users\向金\AppData\Local\Temp\ksohtml13820\wps1.jpg)，如果您是第一次打开，系统会自动提示您进行升级，请保持网络畅通，并且点击升级按钮，等待系统自动升级完成。
+2．安装完成后双击桌面上的“PZStudio”，![wps1](wps1.jpg)如果您是第一次打开，系统会自动提示您进行升级，请保持网络畅通，并且点击升级按钮，等待系统自动升级完成。
 
  
 
@@ -30,27 +34,27 @@ https://www.aliyundrive.com/s/KUVgHn52B2d
 
 2．升级完成后，再次打开PZStudio，在软件的上方选择“开源大师兄”板的端口号，选择后，软件会自动连接上“开源大师兄”板；如图：
 
-![img](file:///C:\Users\向金\AppData\Local\Temp\ksohtml13820\wps2.jpg) 
+![](wps2.jpg) 
 
 3．切换到Python模式：（图形化模式正在开发中）选择软件上方的“切换到Python”按钮，如下图：
 
-![img](file:///C:\Users\向金\AppData\Local\Temp\ksohtml13820\wps3.jpg) 
+![wps3](wps3.jpg) 
 
 选择后，界面变成如下：
 
-![img](file:///C:\Users\向金\AppData\Local\Temp\ksohtml13820\wps4.jpg) 
+![wps4](wps4.jpg) 
 
 4．打开或者新建程序
 
-![img](file:///C:\Users\向金\AppData\Local\Temp\ksohtml13820\wps5.jpg) 
+![wps5](wps5.jpg) 
 
 打开后如图：
 
-![img](file:///C:\Users\向金\AppData\Local\Temp\ksohtml13820\wps6.jpg) 
+![wps6](wps6.jpg) 
 
 5．下载：点击“刷入固件”按钮，当对话框中出现“写入成功”则代表已经下载成功，如图：
 
-![img](file:///C:\Users\向金\AppData\Local\Temp\ksohtml13820\wps7.jpg) 
+![wps7](wps7.jpg) 
 
  
 
