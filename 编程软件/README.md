@@ -12,7 +12,7 @@ typora-copy-images-to: ./
 
 2．gitee开源仓：
 
-https://gitee.com/jdfxrobot_xiangjin/openbrother （建设中）
+https://gitee.com/openbrother/openbrother （建设中）
 
 3．本文档涉及到软件及资料下载地址：
 
